@@ -1,1 +1,1 @@
-# 3155-Lab1-scala
+# CSCI 3155 - Princip of Prog Langs
